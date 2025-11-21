@@ -1,0 +1,12 @@
+.star {
+  position: absolute;
+  font-size: 40px;
+  cursor: pointer;
+  color: #fff762;
+  transition: transform 2s;
+}
+
+.star:focus {
+  outline: none;
+  text-shadow: 1px 1px 10px #fff762;
+}
